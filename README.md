@@ -1,4 +1,4 @@
-# 🚀 ForaFX — Sales & Support Dashboard
+# 🚀 ForFX — Sales & Support Dashboard
 ### گزارش کامل مراحل آموزش و پیاده‌سازی
 
 > **برنامه آموزشی داخلی Opofinance** | تهیه‌شده توسط: Sara Ahmadi | تاریخ: ۲۰ فروردین ۱۴۰۵
@@ -200,7 +200,7 @@ github.com → + → New repository
 ```
 Add file → Upload files
 → فایل index.html را آپلود کن
-→ Commit message: "Add ForaFX dashboard"
+→ Commit message: "Add ForFX dashboard"
 → Commit changes
 ```
 
