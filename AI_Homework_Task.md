@@ -9,34 +9,10 @@ Assigned by: Arash | Due: Report back in the group chat when done
 
 Use an AI coding tool (Claude Code or Gemini CLI) to build a simple frontend dashboard — no backend, no database. Just HTML, CSS, and JavaScript. This is your first hands-on experience letting AI write real code for you.
 
----
 
-## 🛠️ Step 1 — Set Up Your Tools
-
-### Option A: Claude Code (Recommended)
-
-1. Go to **claude.ai** and buy a **Pro plan** ($20/month) using your personal card
-2. Download **Claude Code** (the CLI): https://claude.ai/code
-3. Open your terminal and run:
-   ```
-   npm install -g @anthropic-ai/claude-code
-   claude
-   ```
-4. Log in with your Anthropic account
 
 ### Option B: Gemini CLI (if you have a personal Gmail)
 
-> Note: Gemini CLI works with a personal and work Google account (Gmail).
-
-1. Make sure you have **Gemini Advanced** (Google One AI Premium) active on your personal Gmail
-2. Install:
-   ```
-   npm install -g @google/gemini-cli
-   gemini
-   ```
-3. Log in with your personal Gmail when prompted
-
----
 
 ## 💻 Step 2 — Create a GitHub Repository
 
